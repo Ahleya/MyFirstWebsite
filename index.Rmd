@@ -13,4 +13,9 @@ site: distill::distill_website
  
 ## Amazing Science
 
-Everything is amazing - سبحان الله
+Everything is amazing -
+
+If the temperature raises above 31 deg C the oils in the leaves of the Cistus plant can spontaneously burst into flames.  The plant is reduced to a cinder but the Cistus has evolved to burn.....
+
+
+سبحان الله
