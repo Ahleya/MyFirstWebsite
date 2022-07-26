@@ -1,5 +1,5 @@
 ---
-title: "R-Girls Website - Tutorial"
+title: "Ahleya's Website"
 image: "images/cistus_plant.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
